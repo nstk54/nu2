@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nu2
+        7777777777777
       </h1>
       <div class="links">
         <a
